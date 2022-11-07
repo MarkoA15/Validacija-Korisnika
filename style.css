@@ -1,0 +1,44 @@
+body {
+    background-color: aliceblue;
+    margin: 0px auto;
+    width: 320px;
+}
+
+.glavni {
+    background-color: #fff;
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 5%;
+}
+
+input {
+    height: 25px;
+    border: 2px solid rgb(190, 215, 236);
+    background-color: rgb(208, 224, 238);
+}
+
+input:hover {
+    background-color: aliceblue;
+    border: 2px solid rgb(183, 189, 194);
+}
+
+input:active {
+    background-color: aliceblue;
+    border: 2px solid rgb(183, 189, 194);
+}
+
+label {
+    color: rgb(132, 180, 223);
+    text-align: left;
+}
+
+button {
+    height: 35px;
+    width: 178px;
+    border: 2px solid rgb(190, 215, 236);
+    background-color: rgb(94, 160, 235);
+    cursor: pointer;
+    color: #fff;
+
+}
